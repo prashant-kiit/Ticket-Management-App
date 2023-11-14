@@ -31,7 +31,9 @@ Responsive Page
 
 --Start--
 JS
-https://www.youtube.com/watch?v=W6NZfCO5SIk
+https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+https://www.guru99.com/c-tokens-keywords-identifier.html
+
 Internet
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding
