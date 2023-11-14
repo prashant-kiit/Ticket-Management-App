@@ -1,0 +1,59 @@
+
+Spring vs Node
+https://www.youtube.com/watch?v=llCTPj9MsJI
+https://thetechnologist.in/which-is-better-spring-boot-or-node-js-a36ec70693a0
+https://mindmajix.com/java-spring-vs-node-js
+https://www.geeksforgeeks.org/spring-boot-vs-nodejs/
+
+SQL vs NoSQL
+https://www.coursera.org/articles/nosql-vs-sql
+
+Roadmap
+https://www.youtube.com/watch?v=92bkNXvnpmg&t=159s
+Internet
+Domain
+Domain Name System
+HTTP
+TCP/IP
+WWW
+URL
+Web Browser
+API
+REST Architecture
+HTML-Tags, Heading, Paragraphs, Image, Link
+CSS-Tailwind
+JS
+Form Validation
+AJAX Call
+NPM
+DOM Manipulation
+Responsive Page
+
+--Start--
+JS
+https://www.youtube.com/watch?v=W6NZfCO5SIk
+Internet
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding
+https://www.youtube.com/watch?v=7_LPdttKXPc
+https://www.youtube.com/watch?v=x3c1ih2NJEg
+https://www.geeksforgeeks.org/fiber-optics-and-types/
+https://www.geeksforgeeks.org/introduction-of-a-router/
+https://www.geeksforgeeks.org/difference-between-hub-switch-and-router/
+https://www.geeksforgeeks.org/what-is-modem/
+https://www.geeksforgeeks.org/isp-full-form/
+https://www.geeksforgeeks.org/what-is-an-ip-address/
+https://www.geeksforgeeks.org/introduction-to-domain-name/
+https://www.geeksforgeeks.org/url-full-form/
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#components_of_http-based_systems
+https://www.youtube.com/watch?v=thJSev60yfg
+
+Web Browser
+https://www.youtube.com/watch?v=5rLFYtXHo9s
+https://www.youtube.com/watch?v=AkJtYYL0ww0
+https://www.youtube.com/watch?v=daDbY2iDmU0
+
+HTML/CSS/JS
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
