@@ -54,6 +54,9 @@ Web Browser
 https://www.youtube.com/watch?v=5rLFYtXHo9s
 https://www.youtube.com/watch?v=AkJtYYL0ww0
 https://www.youtube.com/watch?v=daDbY2iDmU0
+https://www.youtube.com/watch?v=oc6faXVc54E
+https://en.wikipedia.org/wiki/Shell_(computing)
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 
 HTML/CSS/JS
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
