@@ -1,0 +1,24 @@
+Web Browser
+
+OS
+Data
+UI
+Engine
+--Thymeleaf/Browser--
+--Template Engine--
+webSocket
+console(output(Obj))
+DOM/CSSOM
+file handling library/seek/print
+DOM/CSSOM
+console(input(Obj))
+webSocket
+main
+compiler
+timer
+eventQueue
+--used for Serial/De-serial/Render/De-render--
+--Thymeleaf/Browser--
+Engine->Parse->String/Char/Byte->Stored->Token(tags and others) Tree->Each Node Object has:tag name/property/value(Details in Each Node-Document, Node-Object, Tree-Model)
+
+
